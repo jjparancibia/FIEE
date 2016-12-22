@@ -8,7 +8,7 @@ int main()
     string texto;
     archivo.open("ejemplo.txt");
     getline(archivo,texto);
-    cout << texto << end;
+    cout << texto << endl;
     archivo.close();
     return 0;
 }
