@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+int fibonacci(int N);
 int main()
 {
     int N;
